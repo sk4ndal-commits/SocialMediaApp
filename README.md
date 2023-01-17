@@ -26,3 +26,4 @@ for them.
 
 - Add tests
 - Add video upload
+- Check for security vulnerabilities
