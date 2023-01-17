@@ -7,7 +7,7 @@ for them.
 
 ## Features
 
-- Users can create accounts which are persisted in the database
+- Users can create accounts which are stored in a database
 - Users can follow and unfollow other people
 - Image upload with caption
 - User suggestions of people you have not followed yet
@@ -25,5 +25,5 @@ for them.
 ## Future Work
 
 - Add tests
-- Add video upload
 - Check for security vulnerabilities
+- Users can delete their accounts
